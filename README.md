@@ -1,4 +1,3 @@
-learn-from-sons-of-anarchy
-==========================
+# HOW SONS OF ANARCHY CAN TEACH YOUR ORGANISATION TO BE MORE EFFECTIVE
 
 Slides for the lightning talk HOW SONS OF ANARCHY CAN TEACH YOUR ORGANISATION TO BE MORE EFFECTIVE
